@@ -27,6 +27,7 @@ function App() {
   }  
   return (
     <>
+    // added a comment
       <h1>This is vite app </h1>
       <h2>Counter {counter}</h2>
 

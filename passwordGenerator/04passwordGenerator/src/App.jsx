@@ -84,9 +84,11 @@ function App() {
             }}            
           />
           <label>Charcters</label>
+
         </div>
       </div>
     </div>
   )
 }
+
 export default App
